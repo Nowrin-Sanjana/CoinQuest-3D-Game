@@ -6,5 +6,10 @@ Features:
 3. A special key allows the robot to fly for a short time and collect coins in the air.
 4. Entering a door shifts the world interface, bringing new environments.
 5. Cheat modes include-the robot run through obstacles without dying, remove the bullet limit, pull nearby coins automatically to the robot and Coin Multiplier doubles the coins.
+<!-- Inline video player in README -->
+<video width="720" controls>
+  <source src="https://github.com/user-attachments/assets/2b5866d6-1af8-4721-995a-800e39daff82.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![8E0A9106-46A8-4126-A874-A7BD43FF2774_1_206_a](https://github.com/user-attachments/assets/4d47edfd-ca59-4886-92e1-da936b58ae35)
+

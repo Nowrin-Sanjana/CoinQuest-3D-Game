@@ -7,9 +7,7 @@ Features:
 4. Entering a door shifts the world interface, bringing new environments.
 5. Cheat modes include-the robot run through obstacles without dying, remove the bullet limit, pull nearby coins automatically to the robot and Coin Multiplier doubles the coins.
 <!-- Inline video player in README -->
-<video width="720" controls>
-  <source src="https://github.com/user-attachments/assets/2b5866d6-1af8-4721-995a-800e39daff82.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/c885fa2f-dcdf-4170-a7cd-ebed26c0f5e5
 
 

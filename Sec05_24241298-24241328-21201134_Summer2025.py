@@ -1817,10 +1817,8 @@ def mouse(button, state, x, y):
 def keyboard(key, x, y):
     global god_mode, infinite_ammo, camera_mode, coin_multiplier_cheat, god_mode_timer, infinite_ammo_timer
     global game_paused
-    
-    if key == b'\x1b':
-        exit()
-    elif key == b'g' or key == b'G':
+
+    if key == b'g' or key == b'G':
         if not god_mode:
             god_mode = True
             god_mode_timer = 10.0
